@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+    font-family:sans-serif;
+    color:plum;
+    
+}
+
+#navbar{
+    display: block;
+    padding: 35px 0px 35px 0px;
+    text-align: right;
+    font-size: 2em;
+    background-color: whitesmoke;
+}
+
+#navbar a{
+    text-decoration: none;
+}
+
+.navlink{
+    margin: 0px 30px;  
+    color: rgb(100,212,199);
+}
+
+#navname{
+    margin-left: 100px;
+    float: left;
+    color: rgb(255,91,165);
+}
+
+.text{
+    text-align: center;
+    color: rgb(255,91,165);
+    font-size: 3em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sect {
+    margin-top: 50px;
+    margin-left:540px;
+    width: 100%;
+    
+}
+
+article {
+    display:block;
+    width: 831px; 
+    height: 497px;
+    margin: 0px 15px 50px;
+}
+article h1 {
+    font-size: 15px;
+}
+
+iframe{
+    width: 831px;
+    height: 497px;
+}
+
+.img{
+    border-radius: 6px;
+    width: 831px; 
+    height: 497px;
+    position: absolute;
+}
+
+.vid{
+    width: 831px; 
+    height: 497px;
+    position: absolute;
+}
+
+/********** TEXTURITZACIÓ **********/
+#secttextures{
+    margin-left: 580px;
+}
+
+.articletextures{
+    width: 720px;
+    height: 515px;
+}
+
+.imgtextures{
+    border-radius: 6px;
+    width: 720px;
+    height: 515px;
+}
+
+/********** IL·LUMINACIO **********/
+#sectilu{
+    margin-left: 320px;
+    margin-top: 50px;
+}
+
+.articlelong{
+    text-align: center;
+    width: 1271px;
+    height: 285px;
+}
+
+.imglong{
+    border-radius: 6px;
+    width: 1271px;
+    height: 285px;
+}
+
+.articleilu{
+    border-radius: 6px;
+    width: 1271px;
+    height: 331px;
+}
+
+.imgilu{
+    border-radius: 6px;
+    width: 1271px;
+    height: 331px;
+}
+
+/********** PHOTOSHOP - ILUSTRATOR **********/
+
+#sectphil{
+    margin-top: 50px;
+    margin-left: 370px;
+}
+.articlephil{
+    width: 1188px;
+    height: 842px;
+}
+
+.imgphil{
+    border-radius: 6px;
+    width: 1188px;
+    height: 842px;
+}
+
+.articleestacio{
+    width: 1188px;
+    height: 636px;
+}
+
+.imgestacio{
+    border-radius: 6px;
+    width: 1188px;
+    height: 636px;
+    
+}
